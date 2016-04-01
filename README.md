@@ -1,2 +1,3 @@
 # hello-world1
 First repository
+I write something in this repository just for fun and stuff...
